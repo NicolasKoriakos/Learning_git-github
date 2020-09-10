@@ -1,10 +1,10 @@
 
-Informacion Personal!
+Informacion Personal:
 
 ----------------------
-
 
 Nombre: Nicolas     
 Apellido: Koriakos
 Edad: 22 años   
 Lugar de nacimiento: Queens,New York City,New York, USA
+Estatura: 180cm
